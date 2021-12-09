@@ -1,0 +1,16 @@
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.exe
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.deps.json
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.runtimeconfig.json
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.runtimeconfig.dev.json
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.dll
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\ref\Triplets.dll
+F:\sharp projects\Triplets\Triplets\bin\Debug\net5.0\Triplets.pdb
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.csproj.AssemblyReference.cache
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.GeneratedMSBuildEditorConfig.editorconfig
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.AssemblyInfoInputs.cache
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.AssemblyInfo.cs
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.csproj.CoreCompileInputs.cache
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.dll
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\ref\Triplets.dll
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.pdb
+F:\sharp projects\Triplets\Triplets\obj\Debug\net5.0\Triplets.genruntimeconfig.cache
